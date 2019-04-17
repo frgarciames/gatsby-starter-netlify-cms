@@ -4,11 +4,7 @@ title: Great coffee with a conscience
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
-categories: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/X-sIsWrqAaU" frameborder="0"
-  allow="accelerometer; autoplay; encrypted-media; gyroscope;picture -in
-  -picture" allowfullscreen></iframe>
+categories: X-sIsWrqAaU
 mainpitch:
   title: Why Kaldi
   description: >
